@@ -1,0 +1,25 @@
+apiVersion: v1
+entries:
+  go-hello-http:
+  - apiVersion: v2
+    appVersion: 0.0.1
+    created: "2023-06-09T08:58:58.517313101Z"
+    description: A Helm chart for Kubernetes
+    digest: 7d413e22f5a0a47521a99fd91ac6ac5752f57abb230f9aaf2c4cebba13ac4627
+    name: go-hello-http
+    type: application
+    urls:
+    - https://github.com/IronCore864/helm-charts/releases/download/go-hello-http-0.1.2/go-hello-http-0.1.2.tgz
+    version: 0.1.2
+  go-hello-http2:
+  - apiVersion: v2
+    appVersion: 0.0.2
+    created: "2023-06-09T08:58:58.68082528Z"
+    description: A Helm chart for Kubernetes
+    digest: ccda29f710f506eab5ee193106c395458254bad107cff830d4110bbdad9523b8
+    name: go-hello-http2
+    type: application
+    urls:
+    - https://github.com/IronCore864/helm-charts/releases/download/go-hello-http2-0.1.2/go-hello-http2-0.1.2.tgz
+    version: 0.1.2
+generated: "2023-06-09T08:58:58.68122808Z"
