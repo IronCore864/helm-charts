@@ -11,4 +11,14 @@ entries:
     urls:
     - https://github.com/IronCore864/helm-charts/releases/download/go-hello-http-0.1.0/go-hello-http-0.1.0.tgz
     version: 0.1.0
-generated: "2023-06-09T08:58:58.68122808Z"
+  - apiVersion: v2
+    appVersion: 0.0.1
+    created: "2023-06-12T06:05:56.553593138Z"
+    description: A Helm chart for Kubernetes
+    digest: 928784fc105a075b354f5c3f02fb5ecb2d41e1bfc24312ce4ac294ba90ca7e8f
+    name: go-hello-http
+    type: application
+    urls:
+    - https://github.com/IronCore864/helm-charts/releases/download/go-hello-http-0.0.1/go-hello-http-0.0.1.tgz
+    version: 0.0.1
+generated: "2023-06-12T06:05:56.553601338Z"
